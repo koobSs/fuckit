@@ -1,0 +1,229 @@
+@media (max-width: 991.98px) {
+    #musiclab {
+        left: 50%;
+    }
+    #videoslab {
+        left: 50%;
+    }
+    #gameslab {
+        left: 50%;
+    }
+}
+@media (max-width: 1019.9px) { 
+    body {
+        overflow-x: hidden;
+    }
+    .topbar {
+        left: -10px;
+        top: -10px;
+        width: 2020px;
+        height: 100px;
+    }
+    #mobinfo {
+        opacity: 0%;
+    }
+    #cord {
+        left: 5%;
+        top: 30%px;
+        font-size: 20px;
+        margin: 0;
+        padding: 0;
+        line-height: 1;
+        font-weight: 700;
+    }
+    #cord:hover {
+    color: #7289DA;
+    }
+    #text {
+        width: 100px;
+        left: 89%;
+        top: 29.4px;
+    }
+    #steam {
+        left: 14%;
+        top: 32.5%;
+        font-size: 20px;
+        margin: 0;
+        padding: 0;
+        line-height: 1;
+        font-weight: 700;
+    }
+    #identity h1 {
+        font-size: 70px;
+        left: 44.7%;
+        top: 345px;
+    }
+    #locate {
+        top: 18px;
+        left: 42.1%;
+        width: 258px;
+        height: 30px;
+        opacity: 70%;
+        font-size: 20px;
+        font-weight: 100px;
+    }
+    .carosel {
+        width: 101%;
+        height: 690px;
+        left: -10px;
+        top: 95px;
+    }
+    .wrapper{
+        width: 1400px;
+    }
+    .wrapper img{
+        width: 2020px;
+        height: 690px;
+        left: 0px;
+        top: 100px;
+    }
+    .wow {
+        left: 20px;
+        top: 65px;
+        width: 98%;
+        height: 0.3px;
+        opacity: 50%;
+    }
+    #login {
+        left: 77%;
+    }
+    #welcomemsg {
+        top: 880px;
+        left: 40.09%;
+        margin: 0;
+        padding: 0;
+        line-height: 1;
+        font-weight: 700;
+        font-family: "Poppins", sans-serif;
+        font-size: 23px;
+        position: center; 
+        color: #f1f1f19a;
+        transition: ease-in-out 0.3s;
+        cursor: default;
+    }
+    .wod {
+        left: 100px;
+        top: 970px;
+        width: 88%;
+        height: 0.3px;
+        opacity: 20%;
+        background: #ffffff;
+        position: center; 
+    }
+    .wob {
+        left: 50px;
+        top: 1930px;
+        width: 88%;
+        height: 0.3px;
+        opacity: 20%;
+        background: #ffffff;
+        position: center; 
+    }
+    .cob {
+        left: 50px;
+        top: 2760px;
+        width: 88%;
+        height: 0.3px;
+        opacity: 20%;
+        background: #ffffff;
+        position: center; 
+    }
+    #about {
+        margin: 0;
+        padding: 0;
+        line-height: 1;
+        font-weight: 700;
+        font-family: "Poppins", sans-serif;
+        font-size: 23px;
+        position: relative;
+        color: #f1f1f19a;
+        transition: ease-in-out 0.3s;
+        cursor: default;
+    }
+    #musiclab {
+        width: 90%;
+        opacity: 0.75;
+        left: 50.99%;
+        top: 1000px;
+        position: center; 
+        color:rgba(134, 136, 6, 0.753);
+        animation: cool 4.5s infinite;
+    }
+    #aboutmusic {
+        opacity: 0.75;
+        font-size: 30px;
+        left: 34.1%;
+        top: 1700px;
+        position: center; 
+    }
+    #musicimg {
+        opacity: 0.40;
+        left: 38%;
+        top: 1145px;
+        position: center; 
+    }
+    #videoslab {
+        width: 90%;
+        opacity: 0.75;
+        left: 50.4%;
+        top: 1800px;
+        position: center; 
+        color:rgba(134, 136, 6, 0.753);
+        animation: cool 4.5s infinite;
+    }
+    #aboutvideos {
+        opacity: 0.75;
+        font-size: 30px;
+        left: 29.2%;
+        top: 2400px;
+        position: center; 
+    }
+    #videosimg {
+        opacity: 0.50;
+        left: 35.8%;
+        top: 2100px;
+        position: center; 
+    }
+    #gameslab {
+        opacity: 0.75;
+        left: 50.9%;
+        top: 2500px;
+        position: center; 
+        color:rgba(134, 136, 6, 0.753);
+        animation: cool 4.5s infinite;
+    }
+    #aboutgames {
+        opacity: 0.75;
+        font-size: 30px;
+        left: 28.2%;
+        width: 100%;
+        top: 3100px;
+        position: center; 
+    }
+    #gamesimg {
+        opacity: 0.50;
+        left: 31.0%;
+        top: 2950px;
+        position: center; 
+    }
+    #blogin {
+        left: 52%;
+        top: 3690px;
+        font-size: 62px;
+        margin: 0;
+        padding: 0;
+        line-height: 1;
+        font-weight: 700;
+        font-family: "Poppins", sans-serif;
+        position: center; 
+        color: #f1f1f1;
+        text-decoration: underline;
+        transition: ease-in-out 0.3s;
+        cursor: default;
+    }
+    #blogin:hover {
+        font-size: 62px;
+        color:rgba(134, 136, 6, 0.753);
+        animation: cool 1.5s infinite;
+    }
+}
